@@ -15,5 +15,5 @@ dueling-DDQN
 
 prioritized-DDQN
 
-伪rainbo-DQN（结合以上所有）
+伪rainbow-DQN（结合以上所有）
 
